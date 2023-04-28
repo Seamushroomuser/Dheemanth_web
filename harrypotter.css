@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background-color: aquamarine;
+    font-family: monospace;
+    font-size: 40px;
+}
+
+#back {
+    height: 75px;
+    width: 200px;
+    border: dotted;
+}
+
+#back:hover {
+    /*Give transform property to scale to 0.9*/
+    transform: scale(0.9);
+}
+
+#hp {
+    border-radius: 140px;
+    border-width: 2px;
+    border-color: red;
+    height: 375px;
+    width: 375px;
+}
+
+h2 {
+    font-family: cursive;
+    font-size:37px;
+}

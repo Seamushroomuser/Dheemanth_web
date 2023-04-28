@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background-color: greenyellow;
+}
+#abt{
+    font-family: fantasy ;
+    font-size: 67px;
+}
+#intro {
+    padding-top: 30px;
+}
+
+#dheemanth2 {
+    height: 275px;
+    width: 275px;
+    border-radius: 140px;
+    border-width: 2px;
+    border-color: dodgerblue;
+}
+
+h1 {
+    font-family: monospace;
+}
+#abtme {
+    font-family: cursive;
+    font-size: 40px;
+}
+#dot{
+    border: dotted;
+}
